@@ -1,4 +1,4 @@
-First Coding Club Meeting
+# First Coding Club Meeting
 
 Topic: Onboarding
 Date: 9/28/2023

@@ -4,7 +4,7 @@ Topic: Onboarding
 Date: 9/29/2023  
 Location: Room 203  
 
-(Original date was 9/28/2023 but postponed due to Digital Readiness Testing)  
+(Original date was 9/28/2023 but postponed to 9/29/2023 due to Digital Readiness Testing)  
 
 Description:  
 Course overview, installation of Visual Studio Code and programming languages, creation of github account  
